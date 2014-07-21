@@ -45,48 +45,57 @@
         <src>http%3A//i.imgur.com/k7BtQSmb.jpg</src>
       </controlProperties>
     </control>
-    <control controlID="48" controlTypeID="com.balsamiq.mockups::Link" x="215" y="281" w="-1" h="-1" measuredW="29" measuredH="19" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Label" x="215" y="280" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
+        <align>center</align>
         <text>Cute</text>
       </controlProperties>
     </control>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::Link" x="196" y="307" w="-1" h="-1" measuredW="67" measuredH="19" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Label" x="191" y="306" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
+        <align>center</align>
         <text>The%20Cutest</text>
       </controlProperties>
     </control>
-    <control controlID="52" controlTypeID="com.balsamiq.mockups::Link" x="343" y="281" w="-1" h="-1" measuredW="51" measuredH="19" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Label" x="339" y="281" w="-1" h="-1" measuredW="51" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
+        <align>center</align>
         <text>Adorable</text>
       </controlProperties>
     </control>
-    <control controlID="53" controlTypeID="com.balsamiq.mockups::Link" x="349" y="307" w="-1" h="-1" measuredW="38" measuredH="19" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Label" x="349" y="306" w="-1" h="-1" measuredW="38" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
+        <align>center</align>
         <text>Sweet</text>
       </controlProperties>
     </control>
-    <control controlID="54" controlTypeID="com.balsamiq.mockups::Link" x="753" y="315" w="-1" h="-1" measuredW="61" measuredH="19" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Label" x="478" y="280" w="-1" h="-1" measuredW="51" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Endearing</text>
-      </controlProperties>
-    </control>
-    <control controlID="55" controlTypeID="com.balsamiq.mockups::Link" x="761" y="341" w="-1" h="-1" measuredW="44" measuredH="19" zOrder="14" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Lovable</text>
-      </controlProperties>
-    </control>
-    <control controlID="56" controlTypeID="com.balsamiq.mockups::Link" x="753" y="288" w="-1" h="-1" measuredW="57" measuredH="19" zOrder="15" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Delightful</text>
-      </controlProperties>
-    </control>
-    <control controlID="57" controlTypeID="com.balsamiq.mockups::Link" x="478" y="281" w="-1" h="-1" measuredW="51" measuredH="19" zOrder="16" locked="false" isInGroup="-1">
-      <controlProperties>
+        <align>center</align>
         <text>Precious</text>
       </controlProperties>
     </control>
-    <control controlID="58" controlTypeID="com.balsamiq.mockups::Link" x="294" y="503" w="-1" h="-1" measuredW="29" measuredH="19" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Label" x="755" y="280" w="-1" h="-1" measuredW="57" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
+        <align>center</align>
+        <text>Delightful</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Label" x="755" y="306" w="-1" h="-1" measuredW="61" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Endearing</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="761" y="331" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Lovable</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Label" x="294" y="502" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
         <text>Cute</text>
       </controlProperties>
     </control>
