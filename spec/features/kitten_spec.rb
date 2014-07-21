@@ -9,8 +9,9 @@ feature 'Kittens' do
     Kitten.create!(image: "http://i.imgur.com/tOzb0dUb.jpg")
 
     login(user)
+
+    # wrap each image in a link with a class
     find(".kitten-link").click
-    expect(page).to have_content("foo bar")
     select "Cutest!", from: "categorization_category_id"
     click_on "Add Category"
 
