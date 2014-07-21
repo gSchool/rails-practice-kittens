@@ -26,11 +26,19 @@ Then I should see the category appear underneath the kitten
 And categories should appear in alphabetical order
 ```
 
+**Users must enter a category when categorizing kittens**
+
+```
+When I try to add a category
+And I leave the category blank
+Then I should see a validation message that the category can't be blank
+```
+
 **Users should not be able to add the same category twice**
 
 ```
 When I try to add a category the second time to the same kitten
-Then I should see a validation message
+Then I should see a validation message that the categorization has already been taken
 ```
 
 
