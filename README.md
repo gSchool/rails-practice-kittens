@@ -55,3 +55,8 @@ Then I should see a validation message that the categorization has already been 
 **Validation Message**
 
 <img src="project/03-new-with-errors.png" />
+
+## References
+
+* [has_many :through association](http://guides.rubyonrails.org/association_basics.html#the-has-many-through-association)
+* [collection_select](http://api.rubyonrails.org/classes/ActionView/Helpers/FormOptionsHelper.html#method-i-collection_select)
