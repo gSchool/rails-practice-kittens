@@ -1,3 +1,7 @@
+<% @categorization.errors.each do |attribute, message| %>
+  <%= message %>
+  <% end %>
+
 <h2>Categorize</h2>
 
 <%= form_for [@kitten, @categorization] do |f| %>
