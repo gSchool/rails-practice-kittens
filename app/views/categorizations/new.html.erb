@@ -1,0 +1,10 @@
+<% @categorization.errors.each do |attribute, message| %>
+  <%= message %>
+  <% end %>
+
+<h2>Categorize</h2>
+
+<%= form_for [@kitten, @categorization] do |f| %>
+<%= f.collection_select :category_id, Category.order(:name), :id, :name, prompt: true %>
+  <%= f.submit "Add Category" %>
+<% end %>
