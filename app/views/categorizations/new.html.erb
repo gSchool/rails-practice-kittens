@@ -1,0 +1,6 @@
+<%= image_tag @kitten.image %>
+
+<%= form_for [@kitten, @categorization] do |f| %>
+  <%= f.collection_select :category_id, Category.all, :id, :name, {prompt: true}, {class: "class-name"} %>
+  <%= f.submit "Add Category" %>
+<% end %>

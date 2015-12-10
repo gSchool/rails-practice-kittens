@@ -3,7 +3,6 @@ require 'rails_helper'
 feature 'Kittens' do
 
   scenario 'User can categorize kittens' do
-    pending
     user = create_user email: "user@example.com"
     Category.create!(name: "Cutest!")
     Kitten.create!(image: "http://i.imgur.com/tOzb0dUb.jpg")
